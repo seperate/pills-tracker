@@ -1,0 +1,63 @@
+{
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "confirm": "Onayla",
+    "clear": "Temizle",
+    "all": "Tümü"
+  },
+  "auth": {
+    "signIn": "Giriş Yap",
+    "signOut": "Çıkış Yap",
+    "email": "E-posta",
+    "password": "Şifre"
+  },
+  "medications": {
+    "add": "İlaç Ekle",
+    "edit": "İlaç Düzenle",
+    "delete": "İlaç Sil",
+    "name": "İlaç Adı",
+    "dosage": "Doz",
+    "timeSlots": "Zaman Dilimleri",
+    "addTimeSlot": "Zaman Dilimi Ekle",
+    "deleteConfirm": "Bu ilacı silmek istediğinizden emin misiniz?",
+    "noMedications": "Henüz ilaç eklenmemiş",
+    "categories": {
+      "all": "Tüm İlaçlar",
+      "morning": "Sabah",
+      "afternoon": "Öğlen",
+      "evening": "Akşam"
+    }
+  },
+  "schedule": {
+    "title": "Program",
+    "today": "Bugün",
+    "taken": "Alındı",
+    "notTaken": "Alınmadı",
+    "markAsTaken": "Alındı Olarak İşaretle",
+    "markAsNotTaken": "Alınmadı Olarak İşaretle",
+    "noMedications": "Bu zaman için planlanmış ilaç yok"
+  },
+  "history": {
+    "title": "Geçmiş",
+    "clearAll": "Tüm Kayıtları Temizle",
+    "clearAllConfirm": "TÜM ilaç kayıtlarını silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+    "deleteLog": "Kaydı Sil",
+    "deleteLogConfirm": "Bu kaydı silmek istediğinizden emin misiniz?",
+    "noLogs": "Bu gün için ilaç kaydı yok",
+    "filter": {
+      "allUsers": "Tüm Kullanıcılar",
+      "byUser": "{{email}} tarafından"
+    }
+  },
+  "time": {
+    "morning": "Sabah",
+    "afternoon": "Öğlen",
+    "evening": "Akşam"
+  }
+} 

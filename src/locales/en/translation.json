@@ -1,0 +1,63 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "confirm": "Confirm",
+    "clear": "Clear",
+    "all": "All"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "email": "Email",
+    "password": "Password"
+  },
+  "medications": {
+    "add": "Add Medication",
+    "edit": "Edit Medication",
+    "delete": "Delete Medication",
+    "name": "Medication Name",
+    "dosage": "Dosage",
+    "timeSlots": "Time Slots",
+    "addTimeSlot": "Add Time Slot",
+    "deleteConfirm": "Are you sure you want to delete this medication?",
+    "noMedications": "No medications added yet",
+    "categories": {
+      "all": "All Medications",
+      "morning": "Morning",
+      "afternoon": "Afternoon",
+      "evening": "Evening"
+    }
+  },
+  "schedule": {
+    "title": "Schedule",
+    "today": "Today",
+    "taken": "Taken",
+    "notTaken": "Not Taken",
+    "markAsTaken": "Mark as Taken",
+    "markAsNotTaken": "Mark as Not Taken",
+    "noMedications": "No medications scheduled for this time"
+  },
+  "history": {
+    "title": "History",
+    "clearAll": "Clear All Logs",
+    "clearAllConfirm": "Are you sure you want to delete ALL medication logs? This action cannot be undone.",
+    "deleteLog": "Delete Log",
+    "deleteLogConfirm": "Are you sure you want to delete this log?",
+    "noLogs": "No medication logs for this day",
+    "filter": {
+      "allUsers": "All Users",
+      "byUser": "by {{email}}"
+    }
+  },
+  "time": {
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "evening": "Evening"
+  }
+} 
