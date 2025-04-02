@@ -13,4 +13,7 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  server: {
+    allowedHosts: ['devserver-main--ecingel.netlify.app']
+  }
 });
